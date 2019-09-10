@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\EjercicioFigura\EjercicioFigura\obj\Debug\EjercicioFigura.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\EjercicioFigura\EjercicioFigura\obj\Debug\EjercicioFigura.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\EjercicioFigura\EjercicioFigura\bin\Debug\EjercicioFigura.exe.config
+C:\Users\Administrador\source\repos\EjercicioFigura\EjercicioFigura\bin\Debug\EjercicioFigura.exe
+C:\Users\Administrador\source\repos\EjercicioFigura\EjercicioFigura\bin\Debug\EjercicioFigura.pdb
+C:\Users\Administrador\source\repos\EjercicioFigura\EjercicioFigura\obj\Debug\EjercicioFigura.exe
+C:\Users\Administrador\source\repos\EjercicioFigura\EjercicioFigura\obj\Debug\EjercicioFigura.pdb
